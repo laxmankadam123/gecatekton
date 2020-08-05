@@ -31,6 +31,6 @@ spec:
     spec:
       containers:
       - name: app
-        image: IMAGE
+        image: laxmankadam123/image:latest
         ports:
         - containerPort: 3300
