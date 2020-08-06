@@ -31,6 +31,7 @@ spec:
     spec:
       containers:
       - name: app
-        image: laxmankadam123/image:latest
+        image: kadam121212/tektonprivate:0.1
+
         ports:
         - containerPort: 3300
